@@ -1,0 +1,5 @@
+LOAD context/00_idea.md
+LOAD context/01_tech_stack.md
+LOAD context/02_roadmap.md
+LOAD context/03_setup_steps.md
+LOAD context/04_ai_guided_prompts.md
